@@ -71,3 +71,12 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## dependency
+
+- [x] @nestjs/typeorm typeorm (For connect with database postgres db)
+- [x] pg (Module for postgres)
+- [x] class-validator class-transformer (Validate data and pip validate type data)
+- [x] @types/hapi\_\_joi @hapi/joi @nestjs/config (For config modules/environment)
+
+`npm install @nestjs/typeorm typeorm pg class-validator class-transformer @types/hapi__joi @hapi/joi @nestjs/config`
